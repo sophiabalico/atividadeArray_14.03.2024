@@ -15,7 +15,7 @@ console.log(numeros);
 let animais = ["elefante", "gato", "tigre", "leopardo", "vaca"]
 console.log(animais)
 animais.reverse()
-console.log(animais)
+console.log(animais);
 
 //saida esperada:
 //[ 'vaca', 'leopardo', 'tigre', 'gato', 'elefante' ]
