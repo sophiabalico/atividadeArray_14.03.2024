@@ -1,4 +1,4 @@
-// método que iverte o array .reverse()
+// método que inverte o array .reverse()
 let numeros = ["1", "2", "3", "4", "5"]
 // vai exibir os numeros na ordem
 console.log(numeros)
