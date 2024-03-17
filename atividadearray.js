@@ -1,7 +1,7 @@
 // método que inverte o array .reverse()
-let numeros = ["1", "2", "3", "4", "5"]
+let numeros = ["1", "2", "3", "4", "5"];
 // vai exibir os numeros na ordem
-console.log(numeros)
+console.log(numeros);
 // vai pegar os numeros e inverter a ordem
 numeros.reverse()
 // vai exibir os numeros invertidos
@@ -12,8 +12,8 @@ console.log(numeros);
 
 
 // segundo exemplo
-let animais = ["elefante", "gato", "tigre", "leopardo", "vaca"]
-console.log(animais)
+let animais = ["elefante", "gato", "tigre", "leopardo", "vaca"];
+console.log(animais);
 animais.reverse()
 console.log(animais);
 
