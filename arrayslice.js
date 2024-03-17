@@ -1,11 +1,11 @@
 // método que retorna uma copia do array .slice()
 // vai criar uma variavel de letras
 let arrayletras = ["a", "b", "c", "d", "e"];
-// vai criar outra variável para pegar o primeiro array e copiar ele começando a partir do índice 3 (d) 
+// vai criar outra variável para pegar o primeiro array e copiar ele começando a partir do index 3 (d) 
 let novoarray = arrayletras.slice(3);
 // vai exibir o primeiro array
 console.log(arrayletras);
-// vai exibir a cópia do primeiro array começando a partir do índice 3
+// vai exibir a cópia do primeiro array começando a partir do index 3
 console.log(novoarray);
 
 //Saida esperada:
