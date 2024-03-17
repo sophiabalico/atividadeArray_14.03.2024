@@ -10,7 +10,7 @@ console.log(frase.join(" "));
 
 // segundo exemplo
 let mensagem = ["eu", "gosto", "de", "tocar", "guitarra"];
-console.log(mensagem.join(" "));
+console.log(mensagem.join("-"));
 
 //Saida esperada:
-//eu gosto de tocar guitarra
+//eu-gosto-de-tocar-guitarra
