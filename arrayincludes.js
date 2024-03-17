@@ -7,7 +7,7 @@ let existe = cor.includes("roxo");
 console.log(existe);
 
 //Saida esperada:
-//existe
+//true
 
 
 // segundo exemplo
@@ -16,4 +16,4 @@ let possui = pais.includes("japao");
 console.log(possui);
 
 //Saida esperada:
-//possui
+//true
