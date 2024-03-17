@@ -11,8 +11,8 @@ console.log(existe);
 
 
 // segundo exemplo
-let pais = ["brasil", "japao", "australia", "eua", "italia"];
-let possui = pais.includes("japao");
+let pais = ["Brasil", "Japao", "Australia", "Franca", "Italia"];
+let possui = pais.includes("Japao");
 console.log(possui);
 
 //Saida esperada:
